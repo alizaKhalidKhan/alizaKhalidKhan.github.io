@@ -49,10 +49,6 @@
             </nav>
             <div id="menu-btn" class="fas fa-bars"></div>  
     </section>
-
-    <!-- header section ends-->
-
-    <!--home section starts-->
     <section class="home">
         <div class="swiper home-slider">
             <div class="swiper-wrapper">
@@ -76,9 +72,6 @@
             <div class="swiper-button-prev"></div>
         </div>
     </section>
-    <!--home section ends-->
-
-     <!--home about section starts-->
      <section class="home-about">
         <div class="image">
             <img src="images/aboutus.png" alt="">
@@ -90,9 +83,6 @@
             <a href="index.html" class="btn">Explore internships</a>
         </div>
     </section>
-    <!--home about section ends-->
-
-     <!--services (browse by categories) section starts-->
      <section class="services">
         <h1 class="heading-title">Browse By categories</h1>
         <div class="box-container">
@@ -123,11 +113,7 @@
                 <a href="index.html"><h3>CRM's chatbot development</h3></a>
             </div>
         </div>
-
     </section>
-    <!--services section ends-->
-
-    <!--home package internship section starts-->
     <section class="home-packages">
             <h1 class="heading-title">
                 Recent Internships
@@ -144,8 +130,7 @@
                         <p><i class='bx bx-time-five custom_icon'></i>1 month</p><br><br><br><br>
                         <a href="index.html" class="btn">Apply Now</a>
                     </div>
-                </div>
-    
+                </div> 
                 <div class="box">
                     <div class="image">
                         <img src="images/FrontEnd.jpeg" alt="">
@@ -156,8 +141,7 @@
                         <p><i class='bx bx-time-five custom_icon'></i>1 month</p><br><br>
                         <a href="index.html" class="btn">Apply Now</a>
                     </div>
-                </div>
-    
+                </div>    
                 <div class="box">
                     <div class="image">
                         <img src="images/BackendDevelopment.jpeg" alt="">
@@ -169,7 +153,6 @@
                         <a href="index.html" class="btn">Apply Now</a>
                     </div>
                 </div>
-
                 <div class="box">
                     <div class="image">
                         <img src="images/hack (1).jpeg" alt="">
@@ -181,7 +164,6 @@
                         <a href="index.html" class="btn">Apply Now</a>
                     </div>
                 </div>
-
                 <div class="box">
                     <div class="image">
                         <img src="images/cloud.jpg" alt="">
@@ -193,7 +175,6 @@
                         <a href="index.html" class="btn">Apply Now</a>
                     </div>
                 </div>
-
                 <div class="box">
                     <div class="image">
                         <img src="images/Mobile App Developer.jpeg" alt="">
@@ -205,7 +186,6 @@
                         <a href="index.html" class="btn">Apply Now</a>
                     </div>
                 </div>
-
                 <div class="box">
                     <div class="image">
                         <img src="images/chatbotDevelopment.jpeg" alt="">
@@ -217,7 +197,6 @@
                         <a href="index.html" class="btn">Apply Now</a>
                     </div>
                 </div>
-
                 <div class="box">
                     <div class="image">
                         <img src="images/Machine Learning.jpeg" alt="">
@@ -229,14 +208,9 @@
                         <a href="index.html" class="btn">Apply Now</a>
                     </div>
                 </div>
-    
                 <div class="load-more" style="text-align: left;"><a href="index.html" class="btn">Load More</a></div>
-    
             </div>
         </section>
-        <!--home package section ends-->
-    
-    <!--footer starts-->
     <section class="footer">
         <div class="box-container">
             <div class="box">
@@ -268,10 +242,8 @@
                 <a href="#"> <i class="fab fa-linkedin"></i>LinkedIn</a>
             </div>
         </div>
-
         <div class="credit">Powered by <span> Techvio Chats </span> | All rights reserved </div>
     </section>
-    <!--footer ends-->
 <!--js link-->
 <script src="js/script.js"></script>
 <script>
@@ -290,7 +262,6 @@
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <body>
 </html>
-
 ```css
 /* Your CSS code here */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
