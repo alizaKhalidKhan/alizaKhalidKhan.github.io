@@ -292,9 +292,7 @@
 </html>
 ```css
 /* Your CSS code here */
-    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 :root{
     --main-color: green;
     --black:#222;
@@ -509,8 +507,6 @@ section{
     line-height: 2;
     color: var(--black);
 }
-
-
 .home-packages{
     background: var(--light-bg);
 }
@@ -729,16 +725,10 @@ section{
     font-size: 2rem;
     color: var(--white);
 }
+/*footer*/
 .footer .credit span{
     color: var(--main-color);
 }
-
-
-
-
-
-
-
 
 /*media queries*/
 @media (max-width:1200px){
@@ -772,16 +762,13 @@ section{
     }
 }
 @media (max-width:768px){
-
     #menu-btn{
         display:inline-block;
         transition: .2s linear;
     }    
-
     #menu-btn.fa-times{
         transform: rotate(180deg);
     }
-
     .header .navbar{
         position: absolute;
         top: 99%;
@@ -793,11 +780,9 @@ section{
         transition: .2s linear;
         clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
     }
-
     .header .navbar.active{
         clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
     }
-
     .header .navbar a{
         display: block;
         margin: 2rem;
@@ -805,7 +790,6 @@ section{
     }
 }
 @media (max-width:450px){
-
     html{
         font-size: 50%;
     }
@@ -813,5 +797,4 @@ section{
         font-size: 3.5rem;
     }
 }
-
 ```
