@@ -1,9 +1,22 @@
-# alizaKhalidKhan.github.io
-
-
+![Machine Learning](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/2938308f-5273-47e8-98b0-be4e71a83fcf)
+![logo](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/ecba2617-03d4-4420-ba51-4a3697461f08)
+![home-slider-2](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/878bbf38-e640-4264-a461-cf2579e340a3)
+![home-slider-1](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/85c8ce2a-be89-43fe-9739-44f9a31c22a8)
+![hack (1)](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/e749782b-4cc0-49f4-b845-312a7a76aa73)
+![FrontEnd](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/1d76131b-2f6e-4d7a-a909-ba8e6b88632d)
+![footer-bg](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/5d176b6c-d9fe-4c52-8c67-99f99c13c5f7)
+![cloud](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/5ad02cbb-7c01-4e5f-a939-90438f68a10c)
+![chatbotDevelopment](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/f54ba143-e669-423b-a33e-4667c3adb3e0)
+![bg](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/8318407e-3dc7-4e77-bad1-257103a56b35)
+![BackendDevelopment](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/c4e7bcbd-9bf9-4610-b44f-4c710048f918)
+![analysis](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/5c1f220e-c479-42e2-ace6-16eb71b53a9c)
+![aboutus](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/852b9af9-3fb5-4f9a-94ca-94bb86845ff8)
+![bg](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/c176f30f-d8fa-4580-87d0-0cb2019595fa)
+# alizaKhalidKhan.github.io![Mobile App Developer](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/70cb2ac0-59e7-4daa-a5e8-9ea34a34b069)
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head>![slider](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/84d85cd1-dfdc-47b4-95a8-2d7469e7f436)
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>internee.pk</title>
