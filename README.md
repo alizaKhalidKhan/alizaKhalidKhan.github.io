@@ -12,6 +12,7 @@
 ![analysis](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/5c1f220e-c479-42e2-ace6-16eb71b53a9c)
 ![aboutus](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/852b9af9-3fb5-4f9a-94ca-94bb86845ff8)
 ![bg](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/c176f30f-d8fa-4580-87d0-0cb2019595fa)
+
 # alizaKhalidKhan.github.io![Mobile App Developer](https://github.com/alizaKhalidKhan/alizaKhalidKhan.github.io/assets/119021188/70cb2ac0-59e7-4daa-a5e8-9ea34a34b069)
 <!DOCTYPE html>
 <html lang="en">
@@ -289,11 +290,9 @@
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <body>
 </html>
-
-    
 ```css
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* Your CSS code here */
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 
 :root{
@@ -814,5 +813,5 @@ section{
         font-size: 3.5rem;
     }
 }
-```
 
+```
